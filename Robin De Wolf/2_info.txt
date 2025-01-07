@@ -1,0 +1,4 @@
+Flight Info:
+FlightCode: 2, Destination: Dubai, EconomySeats: 0, BusinessSeats: 0
+Passengers:
+Name: R, Passport: 1
